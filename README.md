@@ -1,2 +1,4 @@
 ASSIGNMENTS OF DAY 4 => LETS UPGRADE JAVA ESSENTIALS 
 ASSIGNMENT 1 = Main.java and Avenger.java
+ASSIGNMENT 2 = OddValues.java
+ASSIGNMENT 3 = PrintArraySum.java
